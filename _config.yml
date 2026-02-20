@@ -1,0 +1,13 @@
+title: "Yi-Cheng Lin"
+description: "System-level performance engineer — bridging silicon limits, firmware control, and real workloads."
+url: ""  # GitHub Pages will set this
+baseurl: ""  # keep empty for user site
+markdown: kramdown
+
+# Optional: show in browser tab
+tagline: "System-level Performance Engineer"
+
+# Build settings
+plugins: []
+exclude:
+  - README.md
