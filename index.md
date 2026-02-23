@@ -38,7 +38,12 @@ permalink: /
           Add your email / LinkedIn here.
         </p>
         <div class="side__links">
-          <a class="btn" href="#" title="www.linkedin.com/in/yi-cheng-chester-lin-5299b91bb">LinkedIn</a>
+          <a class="btn"
+             href="https://www.linkedin.com/in/yi-cheng-chester-lin-5299b91bb"
+             target="_blank"
+             rel="noopener noreferrer">
+            LinkedIn
+          </a>
           <!-- 
           <a class="btn" href="#" title="Replace with your GitHub URL">GitHub</a>
           -->
