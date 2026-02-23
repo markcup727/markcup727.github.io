@@ -26,8 +26,4 @@ The challenge is to keep performance stable while staying within safe power and 
 
 ---
 
-**What to add here later (optional):**
 
-- 1–2 concrete case studies (before / after charts)  
-- A short “method” section  
-  *(signals → hypothesis → experiment → fix)*
