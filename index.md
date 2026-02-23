@@ -35,7 +35,7 @@ permalink: /
       <div class="side__card">
         <p class="side__title">Contact</p>
         <p class="side__text muted">
-          Add your email / LinkedIn here.
+          LinkedIn here.
         </p>
         <div class="side__links">
           <a class="btn"
