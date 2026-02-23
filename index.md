@@ -88,6 +88,7 @@ permalink: /
   </div>
 </section>
 
+<!--
 <section class="section">
   <div class="grid2">
     <div class="block" data-reveal>
@@ -106,3 +107,4 @@ permalink: /
     </div>
   </div>
 </section>
+-->
