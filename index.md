@@ -57,7 +57,7 @@ permalink: /
       <p class="card__p">Turning thermal and power constraints into predictable performance.</p>
       <ul class="card__bullets">
         <li>Post-silicon tuning on flagship SoCs</li>
-        <li>DVFS / thermal / workload-aware control</li>
+        <li>DVFS / thermal & packaging/ workload-aware control</li>
         <li>Root-cause analysis across CPU/GPU/thermal</li>
       </ul>
     </a>
